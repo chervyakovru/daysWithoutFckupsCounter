@@ -1,7 +1,6 @@
 // consts
 const IMAGE_SRC = './bg.jpg?v=3';
 const TEXT_COLOR = "#132726";
-const DAYS_COUNT = 3;
 
 const IMAGE_WIDTH = 1920;
 const IMAGE_HEIGHT = 1080;
