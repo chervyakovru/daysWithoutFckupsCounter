@@ -1,5 +1,5 @@
 // consts
-const IMAGE_SRC = './bg.jpg?v=2';
+const IMAGE_SRC = './bg.jpg?v=3';
 const TEXT_COLOR = "#132726";
 const DAYS_COUNT = 3;
 
